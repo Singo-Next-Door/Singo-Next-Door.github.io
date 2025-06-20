@@ -1,5 +1,5 @@
 ---
-title:juzhudkss
+title:居住型建筑
 tags:Pages
 sidebar:
   nav:Xkserver
