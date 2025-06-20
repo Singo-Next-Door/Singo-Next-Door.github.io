@@ -1,6 +1,6 @@
 ---
-title:居住型建筑
-tags:Pages
+title: 居住型建筑
+tags: Pages
 sidebar:
   nav:Xkserver
 ---
