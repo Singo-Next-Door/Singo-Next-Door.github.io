@@ -1,3 +1,9 @@
+---
+title:juzhudkss
+tags:Pages
+sidbar:
+  nav:Xkserver
+---
 # 迪克萨斯州
 ## 白宫
 ![白宫](http://localhost:5244/d/!%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90%EF%BC%88%E5%8B%BF%E5%8A%A8%EF%BC%89/%E5%9B%BE%E7%89%87/%E7%99%BD%E5%AE%AB1.png?sign=JsfK0mW-95tD7--tIa87hTnI7FdIPwM04YvyeWVnkdQ=:0 "白宫1")
