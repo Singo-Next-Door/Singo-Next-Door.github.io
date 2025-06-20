@@ -1,7 +1,7 @@
 ---
 title:juzhudkss
 tags:Pages
-sidbar:
+sidebar:
   nav:Xkserver
 ---
 # 迪克萨斯州
