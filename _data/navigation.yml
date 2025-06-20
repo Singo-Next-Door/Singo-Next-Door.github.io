@@ -50,3 +50,12 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+XKserver:
+  - title:      xk&singo秽土转生服务器
+    children:
+      - title:  居住型
+        url:    /2025/06/20/2025-06-28-juzhudkss.html
+      - title:  工业型
+        url:    /docs/en/structure
+      - title:  观赏型
+        url:    /docs/en/structure
