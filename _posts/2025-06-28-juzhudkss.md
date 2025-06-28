@@ -1,8 +1,6 @@
 ---
 title: 居住型建筑
 tags: Pages
-sidebar:
-  nav: Xkserver
 ---
 # 迪克萨斯州
 ## 白宫
